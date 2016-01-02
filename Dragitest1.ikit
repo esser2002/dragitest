@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<IkitMovieProject>
+  <Project Name="Dragitest1" Camera="MICROSOFT LIFECAM STUDIO" Width="800" Height="600" ProjectVersion="4" />
+  <frames>
+    <frame ID="Image2" Path="Image1.jpg" LastProcess="Overlay" />
+    <frame ID="Image3" Path="Image2.jpg" LastProcess="Overlay" />
+    <frame ID="Image4" Path="Image3.jpg" LastProcess="Overlay" />
+    <frame ID="Image5" Path="Image4.jpg" LastProcess="Overlay" />
+    <frame ID="Image6" Path="Image5.jpg" LastProcess="Overlay" />
+  </frames>
+  <Output OutputType="MP4" OutputFile="iKITMovie.Model.Details" FrameRate="15" FrameHeight="600" FrameWidth="800" />
+</IkitMovieProject>
